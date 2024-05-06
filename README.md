@@ -67,7 +67,7 @@ Users can follow these steps to use MoneyMingle:<br>
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/897811dd-bfdb-4258-8c3c-37867d222b39" width = "400" height = "350">
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/1f8692a4-ee96-4da5-bfd7-afe6b58836e6" width = "400" height = "350">
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/610c48f5-ef00-4885-8473-8597c5e5d895" width = "400" height = "350">
-<img src = "(https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/a8ef1a11-f630-4b03-a121-b8983da289a6" width = "400" height = "350">
+<img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/a8ef1a11-f630-4b03-a121-b8983da289a6" width = "400" height = "350">
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/37578121-592e-425a-a0ce-23c446d2ee6c" width = "400" height = "350">
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/4d312913-aa19-4001-ab9f-1bc4479ce204" width = "400" height = "350">
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/b7a6af4a-611f-4faf-a615-7750912522b6" width = "400" height = "350">
