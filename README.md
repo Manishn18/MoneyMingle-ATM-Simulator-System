@@ -63,3 +63,4 @@ Users can follow these steps to use MoneyMingle:<br>
 </ul>
 
 <h2>Screenshots</h2>
+![Project_ss_1](https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/897811dd-bfdb-4258-8c3c-37867d222b39)
