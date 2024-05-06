@@ -76,3 +76,15 @@ Users can follow these steps to use MoneyMingle:<br>
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/4d92cd46-6256-4e46-b426-5e7f4e156777" width = "400" height = "350">
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/58492307-1169-45c6-b3c8-614262fe0c5c" width = "400" height = "350">
 <img src = "https://github.com/Manishn18/MoneyMingle-ATM-Simulator-System/assets/87479740/d9611df8-98a9-4af3-b9a7-0c88337df26e" width = "400" height = "350">
+
+_These Pictures demonstrates the key features and user interface of the MoneyMingle._
+
+<h2>Contributing</h2>
+Contributions to MoneyMingle are welcome! You can contribute by:
+<ul>
+  <li>Reporting bugs or suggesting improvements by raising issues.</li>
+  <li>Submitting pull requests to fix bugs or add new features.</li>
+</ul>
+
+<h2>Conclusion</h2>
+MoneyMingle offers a comprehensive ATM Simulator system for users to simulate banking transactions conveniently. With its intuitive interface and essential banking functionalities, MoneyMingle aims to provide users with a seamless virtual banking experience. Try out MoneyMingle today and start managing your finances effectively!
