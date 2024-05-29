@@ -14,7 +14,7 @@
 <h2>Purpose</h2>
 <p>The purpose of MoneyMingle is to offer a convenient and interactive platform for users to simulate banking transactions without the need for a physical ATM. It provides a user-friendly interface that mimics real-world ATM interactions, helping users familiarize themselves with banking procedures and manage their finances effectively.</p>
 
-<h2>Key Features</h2>
+<h2 id="key-features">Key Features</h2>
 <ul>
   <li><strong>GUI Interface:</strong> Intuitive graphical user interface for easy navigation and interaction.</li>
   <li><strong>Account Signup:</strong> Seamlessly create new accounts by inputting personal and contact information.</li>
