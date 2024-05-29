@@ -80,4 +80,4 @@ Users can follow these steps to use MoneyMingle:<br>
 _These Pictures demonstrate the key features and user interface of the MoneyMingle._
 
 <h2 id="contributing">Contributing</h2>
-Contributions to MoneyMingle are welcome! You can contribute by
+Contributions to MoneyMingle are welcome!
